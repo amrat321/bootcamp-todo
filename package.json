@@ -20,7 +20,7 @@
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.7.14",
     "node": "^13.3.0",
     "nodeman": "^1.1.2"
